@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @obweix
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning Qt
+窝窝头，一块钱四个
 
 <!---
 obweix/obweix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
